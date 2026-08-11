@@ -9,8 +9,6 @@
 
 
 
-
-
 About this project
 Superstore Retail Performance Intelligence is an end-to-end Excel Business Intelligence project that replaces a static spreadsheet workflow with a refreshable analytical architecture. The solution uses Power Query for parameterized ETL, Power Pivot for relational modelling, DAX for reusable KPI calculations, and model-based PivotTables, charts, slicers and timelines for interactive reporting.
 
