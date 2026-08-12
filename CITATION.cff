@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it using the metadata below."
+title: "Superstore Retail Performance Intelligence: Refreshable Excel BI"
+type: software
+authors:
+  - family-names: "Adu"
+    given-names: "Patrick Osei"
+version: 1.0.0
+date-released: 2026-08-12
+url: "https://github.com/kwakusei1m-tech/Superstore-retail-performance-intelligence"
+repository-code: "https://github.com/kwakusei1m-tech/Superstore-retail-performance-intelligence"
+license: MIT
+keywords:
+  - Microsoft Excel
+  - Power Query
+  - Power Pivot
+  - DAX
+  - retail analytics
+  - business intelligence
+abstract: >-
+  A governed and refreshable Microsoft Excel business-intelligence project
+  that transforms Superstore order-line data through Power Query ETL,
+  a relational Power Pivot model, explicit DAX measures, data-quality controls,
+  interactive PivotTables, charts, slicers and timelines.
