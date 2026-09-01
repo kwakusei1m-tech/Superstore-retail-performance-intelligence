@@ -1,0 +1,6 @@
+criterion_id,dimension,weight,full_credit,partial_credit,zero_credit
+L01,Meaning and factual fidelity,30,"Complete, correct and evidenced",Partly correct or minor omission,"Materially wrong, absent or unsupported"
+L02,Grammar and fluency,20,"Complete, correct and evidenced",Partly correct or minor omission,"Materially wrong, absent or unsupported"
+L03,Locale conventions,20,"Complete, correct and evidenced",Partly correct or minor omission,"Materially wrong, absent or unsupported"
+L04,Context and tone,20,"Complete, correct and evidenced",Partly correct or minor omission,"Materially wrong, absent or unsupported"
+L05,Uncertainty/escalation,10,"Complete, correct and evidenced",Partly correct or minor omission,"Materially wrong, absent or unsupported"

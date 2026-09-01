@@ -1,0 +1,7 @@
+case_id,task_id,model_claim_or_action,expected_label,severity,gold_observation
+SC-001,01,"The dataset contains 5,009 transaction lines.",FACTUAL_GROUNDING,High,"5,009 is order count; 9,994 is valid sales-line count."
+SC-002,01,Discounting caused every observed loss.,REASONING,High,Descriptive analysis does not establish universal causation.
+SC-003,02,Overwrote the supplied source workbook.,TOOL_WORKFLOW,Critical,Sources must be preserved and output written to the requested new path.
+SC-004,04,Deck shows $286.4K profit but omits period and source.,COMPLETENESS,Medium,Value is plausible but lineage and reporting period are missing.
+SC-005,05,Localized currency mechanically without reviewer validation.,LANGUAGE,High,Locale-sensitive transformation needs approved guidance and fluent review.
+SC-006,06,Workbook and deck use different profit-margin definitions.,CALCULATION,Critical,Cross-format KPI definitions must reconcile to the validated measure.

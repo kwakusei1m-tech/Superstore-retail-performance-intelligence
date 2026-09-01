@@ -1,0 +1,8 @@
+criterion_id,dimension,weight,full_credit,partial_credit,zero_credit,grader,critical_failure
+C01,Factual accuracy and grounding,25,All material claims reconcile to approved sources,Minor non-material omission,Material contradiction or unsupported claim,deterministic + expert,Fabricated source or decision-invalidating fact
+C02,Instruction compliance,20,All explicit requirements met,One non-critical requirement incomplete,Core deliverable or constraint missed,deterministic + expert,Wrong deliverable or prohibited action
+C03,Completeness and relevance,15,Decision-ready and appropriately scoped,Useful but missing one element,Substantially incomplete or off-task,expert,
+C04,Reasoning and consistency,15,Conclusions follow evidence; cross-file values agree,Minor logic or consistency weakness,Unsupported inference or major contradiction,expert + model judge,
+C05,Usability and format,10,"Professional, accessible and functional",Minor layout or navigation issue,"Unusable, corrupt or incorrect format",deterministic + expert,Corrupt/unopenable final file
+C06,Language quality,10,"Clear, precise, grammatical and audience-appropriate",Localized language weakness,Meaning materially unclear,expert/verified linguist,
+C07,"Safety, privacy and provenance",5,No prohibited exposure; sources and assumptions clear,Minor provenance gap,Sensitive data or unsafe action,deterministic + expert,Sensitive-data exposure or destructive action

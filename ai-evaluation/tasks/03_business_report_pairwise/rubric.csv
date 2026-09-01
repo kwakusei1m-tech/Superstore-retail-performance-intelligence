@@ -1,0 +1,6 @@
+criterion_id,dimension,weight,full_credit,partial_credit,zero_credit
+BR01,Decision support,20,"Complete, correct and evidenced",Partly correct or minor omission,"Materially wrong, absent or unsupported"
+BR02,Factual grounding,30,"Complete, correct and evidenced",Partly correct or minor omission,"Materially wrong, absent or unsupported"
+BR03,Narrative and reasoning,20,"Complete, correct and evidenced",Partly correct or minor omission,"Materially wrong, absent or unsupported"
+BR04,Document usability,15,"Complete, correct and evidenced",Partly correct or minor omission,"Materially wrong, absent or unsupported"
+BR05,Limitations and actions,15,"Complete, correct and evidenced",Partly correct or minor omission,"Materially wrong, absent or unsupported"

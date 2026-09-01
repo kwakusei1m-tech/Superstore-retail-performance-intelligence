@@ -1,0 +1,27 @@
+task_id: EVAL-000
+title: Replace with a capability-focused title
+capability: factuality | content_quality | agent_workflow | business_document
+business_user: ""
+decision_supported: ""
+risk_level: low | medium | high
+prompt_version: v1.0
+source_version: v1.0
+environment_version: v1.0
+prompt: |
+  Write the exact user-facing instruction.
+supporting_files:
+  - path: ""
+    purpose: ""
+permitted_tools: []
+prohibited_actions: []
+expected_deliverables: []
+reference_outcome:
+  must_include: []
+  accepted_alternatives: []
+  critical_failures: []
+edge_cases: []
+grader_plan:
+  deterministic: []
+  expert_human: []
+  model_judge: []
+trial_count: 3
