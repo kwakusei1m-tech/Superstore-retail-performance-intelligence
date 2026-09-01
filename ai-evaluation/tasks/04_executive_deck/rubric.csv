@@ -1,0 +1,6 @@
+criterion_id,dimension,weight,full_credit,partial_credit,zero_credit
+PPT01,Decision framing,15,"Complete, correct and evidenced",Partly correct or minor omission,"Materially wrong, absent or unsupported"
+PPT02,KPI/model lineage,30,"Complete, correct and evidenced",Partly correct or minor omission,"Materially wrong, absent or unsupported"
+PPT03,Narrative and prioritization,20,"Complete, correct and evidenced",Partly correct or minor omission,"Materially wrong, absent or unsupported"
+PPT04,Recommendations,20,"Complete, correct and evidenced",Partly correct or minor omission,"Materially wrong, absent or unsupported"
+PPT05,Visual usability,15,"Complete, correct and evidenced",Partly correct or minor omission,"Materially wrong, absent or unsupported"

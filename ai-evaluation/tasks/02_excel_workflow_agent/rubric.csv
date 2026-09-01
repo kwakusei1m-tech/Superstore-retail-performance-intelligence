@@ -1,0 +1,6 @@
+criterion_id,dimension,weight,full_credit,partial_credit,zero_credit
+XL01,Final file state,20,"Complete, correct and evidenced",Partly correct or minor omission,"Materially wrong, absent or unsupported"
+XL02,ETL and standardization,20,"Complete, correct and evidenced",Partly correct or minor omission,"Materially wrong, absent or unsupported"
+XL03,Quality governance,20,"Complete, correct and evidenced",Partly correct or minor omission,"Materially wrong, absent or unsupported"
+XL04,Model and KPI validity,25,"Complete, correct and evidenced",Partly correct or minor omission,"Materially wrong, absent or unsupported"
+XL05,Dashboard and documentation,15,"Complete, correct and evidenced",Partly correct or minor omission,"Materially wrong, absent or unsupported"

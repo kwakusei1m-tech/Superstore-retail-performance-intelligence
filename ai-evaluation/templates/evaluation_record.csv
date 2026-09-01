@@ -1,0 +1,1 @@
+run_id,task_id,task_version,rubric_version,model_config,trial,evaluator,criterion_id,score_awarded,score_possible,error_label,severity,confidence,evidence_pointer,observation,business_impact,correction,adjudication_status

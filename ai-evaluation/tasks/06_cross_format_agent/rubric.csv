@@ -1,0 +1,6 @@
+criterion_id,dimension,weight,full_credit,partial_credit,zero_credit
+XF01,File-state integrity,20,"Complete, correct and evidenced",Partly correct or minor omission,"Materially wrong, absent or unsupported"
+XF02,Cross-format consistency,30,"Complete, correct and evidenced",Partly correct or minor omission,"Materially wrong, absent or unsupported"
+XF03,Source/model lineage,20,"Complete, correct and evidenced",Partly correct or minor omission,"Materially wrong, absent or unsupported"
+XF04,Business usability,15,"Complete, correct and evidenced",Partly correct or minor omission,"Materially wrong, absent or unsupported"
+XF05,Handoff and limitations,15,"Complete, correct and evidenced",Partly correct or minor omission,"Materially wrong, absent or unsupported"
